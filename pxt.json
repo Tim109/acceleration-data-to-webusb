@@ -1,5 +1,5 @@
 {
-    "name": "acceleration data to webusb",
+    "name": "temp data to pc via webusb",
     "description": "",
     "dependencies": {
         "core": "*",
